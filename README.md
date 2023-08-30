@@ -3,6 +3,7 @@
 現在韓国の大学でAIとソフトウェア開発について勉強しています！普段はpythonでアプリ開発をしたり、競技プログラミングをしています！
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirohiro-sys&show_icons=true)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
