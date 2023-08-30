@@ -4,8 +4,9 @@
 
 | KEY | 　　　　　VALUE 　　　　　　　　　　|
 ----|---- 
+| 名前 |      ひろかーず |
 | 資格 | 　　　　　基本情報技術者 　　　　　　　　　　|
-| 趣味 | 　　　　　atcoder、個人開発 　　　　　　　　　　|
+| 趣味 | 　　　　　atcoder、個人開発、筋トレ 　　　　　　　　　　|
 | キータ | 　　　　　@bisketoriba 　　　　　　　　　　|
 
 <p align="left"> 
