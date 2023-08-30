@@ -8,7 +8,6 @@
 | 現在 |　　　　　韓国の大学２年生、インターン探し中 |
 | 資格 | 　　　　　基本情報技術者 　　　　　　　　　　|
 | 趣味 | 　　　　　atcoder、個人開発、筋トレ、お笑い 　　　　　　　　　　|
-| キータ | 　　　　　@bisketoriba 　　　　　　　　　　|
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
