@@ -11,4 +11,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hirohiro-sys&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://14821258.s21i.faimallusr.com/2/ABUIABACGAAgqu3x5AUoqNfa-QEwgAg4wAQ.jpg" >
