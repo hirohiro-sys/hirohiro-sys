@@ -2,14 +2,10 @@
 
 現在韓国の大学でAIとソフトウェア開発について勉強しています！普段はpython(django)でアプリ開発をしたり、競技プログラミングをしています！
 
-| Left align | Right align 
-            |:-----------|------------:|
-            | This       |        This |        
-            | column     |      column |  
-            | will       |        will |
-            | be         |          be | 
-            | left       |       right | 
-            | aligned    |     aligned |
+| タイトル | 内容 |
+----|---- 
+| TD1 | TD3 |
+| TD2 | TD4 |
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
