@@ -2,11 +2,11 @@
 
 現在韓国の大学でAIとソフトウェア開発について勉強しています！普段はpython(django)でアプリ開発をしたり、競技プログラミングをしています！
 
-| KEY | VALUE |
+| KEY | VALUE 　　　　　　　　　　|
 ----|---- 
-| 資格 | 基本情報技術者 |
-| 趣味 | atcoder、個人開発 |
-| キータ | @bisketoriba |
+| 資格 | 基本情報技術者 　　　　　　　　　　|
+| 趣味 | atcoder、個人開発 　　　　　　　　　　|
+| キータ | @bisketoriba 　　　　　　　　　　|
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
