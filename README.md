@@ -1,14 +1,12 @@
 # Self-Introduction
 
-I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and engage in competitive programming!　
+I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　
 
 ### :fire: My Stats :
 
 
 ---
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
-
 ---
 
 <p align="left"> 
