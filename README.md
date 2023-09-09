@@ -54,5 +54,5 @@ I am currently studying AI and software development at a university in  Korea! I
 
 ---
 
-I plan to gradually showcase my own products from now on.
+⚡️　I plan to gradually showcase my own products from now on.
 　
