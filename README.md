@@ -4,11 +4,9 @@ I am currently studying AI and software development at a university in  Korea! I
 
 ### :fire: My Stats :
 
-[![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=taejungsu&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taejungsu&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejungsu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
 
 
 <p align="left"> 
