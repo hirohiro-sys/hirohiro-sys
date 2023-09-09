@@ -1,6 +1,6 @@
-# 自己紹介
+# Self-Introduction
 
-現在韓国の大学でAIとソフトウェア開発について勉強しています！普段はpython(django)でアプリ開発をしたり、競技プログラミングをしています！　
+I am currently studying AI and software development at a university in South Korea! In my daily routine, I work on app development using Python (Django) and engage in competitive programming!　
 
 | KEY | 　　　　　VALUE 　　　　　　　　　　|
 ----|---- 
