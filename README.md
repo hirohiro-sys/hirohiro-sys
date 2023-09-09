@@ -3,7 +3,7 @@
 
 # 🧑‍💻Self-Introduction
 
-I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　
+⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　I plan to gradually showcase my own products from now on.
 
 ### :fire: My Stats :
 
@@ -53,6 +53,4 @@ I am currently studying AI and software development at a university in  Korea! I
 </div>
 
 ---
-
-⚡️　I plan to gradually showcase my own products from now on.
 　
