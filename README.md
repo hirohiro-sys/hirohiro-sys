@@ -5,11 +5,11 @@ I am currently studying AI and software development at a university in  Korea! I
 ### :fire: My Stats :
 
 
-<div class="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
-</div>
+---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
 
+---
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
