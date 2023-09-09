@@ -5,8 +5,10 @@ I am currently studying AI and software development at a university in  Korea! I
 ### :fire: My Stats :
 
 
+<div class="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
 
 
 <p align="left"> 
