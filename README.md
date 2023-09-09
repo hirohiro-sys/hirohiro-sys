@@ -2,6 +2,7 @@
 
 I am currently studying AI and software development at a university in South Korea! In my daily routine, I work on app development using Python (Django) and engage in competitive programming!　
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 　
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
