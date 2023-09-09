@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+
 # Self-Introduction
 
 I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　
@@ -7,9 +10,10 @@ I am currently studying AI and software development at a university in  Korea! I
 
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
+
 ---
 
-<p align="left"> 
+<p align="center"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
