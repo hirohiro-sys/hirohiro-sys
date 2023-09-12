@@ -9,7 +9,7 @@
 
 
 ---
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hirohiro-sys&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hirohiro-sys&theme=tokyonight&hide_border=%E9%96%93%E9%81%95%E3%81%84)](https://git.io/streak-stats)
 ---
 
 <p align="center"> 
