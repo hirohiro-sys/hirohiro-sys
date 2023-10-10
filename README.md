@@ -11,6 +11,9 @@
 | --- | --- |
 | mini_product | https://github.com/hirohiro-sys/mini_product |
 
+
+I'm currently learning React, Docker, AWS, GitHub Actions, and PostgreSQL for the development of our main product!
+
 ### :fire: My Stats :
 
 
