@@ -4,7 +4,7 @@
 
 # 🧑‍💻Self-Introduction
 
-⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　I recently created a small university bulletin board application using Django↓.
+⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　I recently created a small university bulletin board application using Django as a mini_product↓.
 
 
 | KEY | VALUE |
