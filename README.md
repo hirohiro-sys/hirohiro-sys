@@ -5,21 +5,30 @@
 
 # 🧑‍💻about me
 
-⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development using Python (Django) and play in competitive programming!　I recently created a small university bulletin board application using Django as a mini_product↓.
+⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development and play in competitive programming!　
 
+
+  
+・I recently created a small university bulletin board application using Django as a mini_product            
 
 | KEY | VALUE |
 | --- | --- |
 | mini_product | https://github.com/hirohiro-sys/mini_product |
 
-I'm currently learning React, Docker, AWS, GitHub Actions, and PostgreSQL for the development of our main product!
+
+・I'm currently learning React, Docker, AWS, GitHub Actions, and PostgreSQL for the development of our main product!
+  
+| KEY | VALUE |
+| --- | --- |
+| main_product | I am currently learning for development |
 
 
+---
 
 ### :fire: My Stats :
 
 
----
+
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=katohiro22)](https://solved.ac/{handle})
 
@@ -28,7 +37,7 @@ I'm currently learning React, Docker, AWS, GitHub Actions, and PostgreSQL for th
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hirohiro-sys&theme=tokyonight&hide_border=%E9%96%93%E9%81%95%E3%81%84)](https://git.io/streak-stats)
----
+
 
 <p align="center"> 
   
