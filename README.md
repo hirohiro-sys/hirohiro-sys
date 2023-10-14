@@ -37,8 +37,9 @@ I'm currently learning React, Docker, AWS, GitHub Actions, and PostgreSQL for th
   
 </p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=hirohiro-sys&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy) 
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hirohiro-sys&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 
 ---
 
