@@ -40,10 +40,15 @@
 
 
 <p align="center"> 
-  
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&count_private=true&show_icons=true&show_icons=true&theme=onedark" /> 
-  
+
+
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" /> 
+
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&theme=vision-friendly-dark" /> 
+ 
+
+
+
 </p>
 
 
