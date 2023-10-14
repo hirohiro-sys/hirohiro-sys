@@ -6,25 +6,22 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F738&random=false&width=600&lines=Hello+there.+I`m+hirohiro-sys!+Have+a+nice+day+⭐️" alt="Typing SVG" /></a>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development and play in competitive programming!　I will be releasing the developed application on this README↓.
 
 
-### 💻 Product
+## 💻 Product
 
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | main_product | I plan to learn React and work on full-stack API development with Django and React❗️ | Currently in development...
-
-| NAME | URL | OVERVIEW
-| --- | --- | -- |
 | mini_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
 
 
 
 
-### 🏆 Atcoder Record
+## 🏆 Atcoder Record
 
  <a href="https://atcoder.jp/users/hiroking333" target="_blank" title="hiroking333"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhiroking333" /></a>
 
@@ -34,7 +31,7 @@
 
 
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 
 
@@ -53,6 +50,7 @@
 
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&theme=dark&show_icons=true" /> 
 
+
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&theme=vision-friendly-dark" /> 
  
 
@@ -66,7 +64,7 @@
  
 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
