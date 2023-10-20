@@ -1,13 +1,11 @@
 <div id="header" align="center">
 
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=hirohiro-sys&style=flat-square&color=blue" alt=""/>
- 
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F738&random=false&width=600&lines=Hello+there.+I`m+hirohiro-sys!+Have+a+nice+day+⭐️" alt="Typing SVG" /></a> 
 
@@ -16,12 +14,13 @@
 ⚡️I am currently studying AI and software development at a university in  Korea! In my daily routine, I work on app development and play in competitive programming!　I will be releasing the developed application on this README↓.
 
 
-## 💻 Product
+## 💻 Products & Activities
 
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | main_product | I plan to learn React and work on full-stack API development with Django and React❗️ | Currently in development...
 | mini_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
+| Baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
 
 
 
