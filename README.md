@@ -19,9 +19,9 @@
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | main_product | I plan to learn React and work on full-stack API development with Django and React❗️ | on working...
-| library-system | A library system application that supports library staff using Java and UML　　| on working...
-| mini_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
+| library-system | https://github.com/hirohiro-sys/library-system　　| on working...
 | Baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
+| mini_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
 
 
 
