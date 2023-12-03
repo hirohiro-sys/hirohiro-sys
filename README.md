@@ -5,7 +5,7 @@
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=hirohiro-sys&style=flat-square&color=blue" alt=""/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F738&random=false&width=600&lines=Hello+there.+I`m+hirohiro-sys!+Have+a+nice+day+⭐️" alt="Typing SVG" /></a> 
 
