@@ -22,7 +22,7 @@
 | library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| I designed a university library system using UML.
 | Baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
 | first_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
-| Qiita | https://qiita.com/bisketoriba | My qiita account
+| Qiita | https://github.com/hirohiro-sys/qiita | My qiita account
 | AtCoder | https://github.com/hirohiro-sys/atcoder_new | My atcoder account
 
 
