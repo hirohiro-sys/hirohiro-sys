@@ -15,7 +15,7 @@
 
 　　⚡️I work on web application development and competitive programming💪      
 
- ⚡️I will include my usual activities in this README📄  
+ ⚡️I will update this README with my activities and ongoing projects.📄  
 
 
 ## 💻 Products & Activities
