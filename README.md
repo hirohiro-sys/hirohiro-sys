@@ -24,10 +24,10 @@
 | --- | --- | -- |
 | main_product | I plan to learn React and work on full-stack API development with Rails(or FastAPi) and React❗️ | on working...
 | library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| I designed a university library system using UML.
-| Baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
+| baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
 | first_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
-| Zenn | https://github.com/hirohiro-sys/Zenn | My Zenn account
-| AtCoder | https://github.com/hirohiro-sys/atcoder_new | My atcoder account
+| zenn | https://github.com/hirohiro-sys/Zenn | My Zenn account
+| atCoder | https://github.com/hirohiro-sys/atcoder_new | My atcoder account
 
 
 
