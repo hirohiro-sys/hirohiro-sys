@@ -23,7 +23,6 @@
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | main_product | I plan to learn React and work on full-stack API development with Rails(or FastAPi) and React❗️ | on working...
-| React-demo | https://github.com/hirohiro-sys/react-learning-lab | This is a repository for learning React.
 | library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| I designed a university library system using UML.
 | baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
 | first_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
