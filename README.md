@@ -11,11 +11,11 @@
 
 ## 🧑‍💻 About Me
 
- ⚡️I am studying AI and software development at a university in Korea🇰🇷
+⚡️I am studying AI and software development at a university in Korea🇰🇷
 
-　　⚡️I work on web application development and competitive programming💪      
+⚡️I work on web application development and competitive programming💪
 
- ⚡️I will update this README with my activities and ongoing projects.📄  
+⚡️I will update this README with my activities and ongoing projects.📄  
 
 
 ## 💻 Products & Activities
