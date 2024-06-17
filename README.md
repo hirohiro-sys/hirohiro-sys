@@ -18,16 +18,15 @@
 ⚡️I will update this README with my activities and ongoing projects.📄  
 
 
-## 💻 Products & Activities
+## 💻 Activities
 
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
-| main_product | I plan to learn React and work on full-stack API development with Rails(or FastAPi) and React❗️ | on working...
-| library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| I designed a university library system using UML.
-| baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | To improve my coding skills, I solve problems on a Korean website called Baekjoon.
-| first_product | https://github.com/hirohiro-sys/mini_product | This is a university bulletin board application developed using Django.
-| zenn | https://github.com/hirohiro-sys/Zenn | My Zenn account
-| atCoder | https://github.com/hirohiro-sys/atcoder_new | My atcoder account
+| main_product | I plan to learn React and work on full-stack API development with Rails(or FastAPi) and React❗️ | 作業中...
+| line-contribution-alert | [https://github.com/hirohiro-sys/mini_product](https://github.com/hirohiro-sys/line-contributions-alert) | 毎晩githubを更新してない場合はLINEに通知させる簡単なアクション
+| library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| 大学の授業で設計した図書館システム
+| baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | 韓国版Atcoderの記録
+| zenn | https://github.com/hirohiro-sys/Zenn | 技術アウトプット。Qiitaに移植したい
 
 
 
