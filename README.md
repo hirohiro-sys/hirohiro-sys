@@ -11,22 +11,23 @@
 
 ## 🧑‍💻 About Me
 
-⚡️I am studying AI and software development at a university in Korea🇰🇷
-
-⚡️I work on web application development and competitive programming💪
-
-⚡️I will update this README with my activities and ongoing projects.📄  
+<div>
+  <p>⚡️I am studying AI and software development at a university in Korea🇰🇷</p>
+  <p>⚡️I work on web application development and competitive programming💪</p>
+  <p>⚡️I will update this README with my activities and ongoing projects.📄</p>
+</div>
 
 
 ## 💻 Activities
 
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
-| Line-contribution-alert | [https://github.com/hirohiro-sys/mini_product](https://github.com/hirohiro-sys/line-contributions-alert) | 毎晩githubを更新してない場合はLINEに通知させる簡単なアクション
-| Library-system | [https://github.com/hirohiro-sys/library-system](https://github.com/hirohiro-sys/library-system)　　| 大学の授業で設計した図書館システム
-| Baekjoon | https://github.com/hirohiro-sys/baekjoon-practice | 韓国の競技プログラミングサイトでの学習録
-<!-- | React roadmap |https://github.com/hirohiro-sys/react-roadmap | QiitaでみたReactロードマップの学習録 -->
-<!--| Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット -->
+| ??? | in progress... | ここまでの集大成としてポートフォリオアプリを作成中です。
+| テックブログ | https://github.com/hirohiro-sys/tech-blog | QiitaやMicroCMSから技術記事を取得しているテックブログサイトです。
+| 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
+| デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
+| 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。 
+| Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
 
 
 
@@ -35,7 +36,7 @@
 
 
 
-## 🔥 My Stats :
+## 🔥 My Stats
 
 
 
@@ -69,7 +70,7 @@
  
 
 
-##  ⚒️Languages and Tools :
+##  ⚒️Languages and Tools
 
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
