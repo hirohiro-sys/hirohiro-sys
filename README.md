@@ -13,7 +13,7 @@
 
 <div>
   <p>⚡️I am studying AI and software development at a university in Korea🇰🇷</p>
-  <p>⚡️I work on web application development and competitive programming💪</p>
+  <p>⚡️I am currently doing an internship at a company called Kaizen Platform🔥</p>
   <p>⚡️I will update this README with my activities and ongoing projects.📄</p>
 </div>
 
@@ -35,7 +35,7 @@
 
 
 
-
+ここから下は無視で大丈夫です。(プロフィールをいかつくするために置いてあるだけです)
 ## 🔥 My Stats
 
 
