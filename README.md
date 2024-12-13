@@ -26,7 +26,8 @@
 | テックブログ | https://github.com/hirohiro-sys/tech-blog | QiitaやMicroCMSから技術記事を取得しているテックブログサイトです。
 | 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
 | デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
-| 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。 
+| 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。
+| 백준 |https://github.com/hirohiro-sys/baekjoon| 韓国のPSサイトの学習録
 | Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
 
 
