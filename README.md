@@ -25,6 +25,8 @@
 
 ## 💻 Activities
 
+### 個人開発(React,Next.js)
+
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | JISUI | in progress... | 自炊を楽しく継続できるアプリを開発中です。
@@ -32,16 +34,20 @@
 | 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
 | デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
 | 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。
+
+### 大学でのチームプロジェクト等
+| NAME | URL | OVERVIEW
+| --- | --- | -- |
+| ... |...| ...
+### その他
+
+| NAME | URL | OVERVIEW
+| --- | --- | -- |
 | 백준 |https://github.com/hirohiro-sys/baekjoon| 韓国のPSサイトの学習録
 | Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
 
 
 
-
-
-
-
-ここから下は無視で大丈夫です。(プロフィールをいかつくするために置いてあるだけです)
 ## 🔥 My Stats
 
 
