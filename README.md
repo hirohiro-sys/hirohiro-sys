@@ -12,11 +12,16 @@
 ## 🧑‍💻 About Me
 
 <div>
-  <p>⚡️I am studying AI and software development at a university in Korea🇰🇷</p>
+  <p>⚡️韓国の大学でAIとソフトウェア開発について学んでいます。</p>
   <p>⚡️I am currently doing an internship at a company called Kaizen Platform🔥</p>
   <p>⚡️I will update this README with my activities and ongoing projects.📄</p>
 </div>
 
+## intern
+
+2024/1〜2024/12 kaizen platform
+
+2024/12〜 AIdeaLab
 
 ## 💻 Activities
 
