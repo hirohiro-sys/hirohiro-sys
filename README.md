@@ -25,8 +25,9 @@
 
 ## 💻 Activities
 
-### 個人開発(React,Next.js)
 
+<!---
+### 個人開発(React,Next.js)
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | JISUI | in progress... | 自炊を楽しく継続できるアプリを開発中です。
@@ -45,8 +46,7 @@
 | --- | --- | -- |
 | 백준 |https://github.com/hirohiro-sys/baekjoon| 韓国のPSサイトの学習録
 | Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
-
-
+-->
 
 ## 🔥 My Stats
 
