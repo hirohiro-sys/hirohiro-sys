@@ -46,6 +46,7 @@
 | --- | --- | -- |
 | 백준 |https://github.com/hirohiro-sys/baekjoon| 韓国のPSサイトの学習録
 | Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
+| OSS活動 | XXX | react-server公式ドキュメントの日本語訳を作成しています
 -->
 
 ## 🔥 My Stats
