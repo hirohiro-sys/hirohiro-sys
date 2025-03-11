@@ -9,6 +9,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=31F738&random=false&width=600&lines=Hello+there.+I`m+hirohiro-sys!+Have+a+nice+day+⭐️" alt="Typing SVG" /></a> 
 
+<!----
 ## 🧑‍💻 About Me
 
 <div>
@@ -23,11 +24,9 @@
 
 2024/12〜 AIdeaLab
 
+----->
+
 ## 💻 Activities
-
-
-<!---
-### 個人開発(React,Next.js)
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
 | JISUI | in progress... | 自炊を楽しく継続できるアプリを開発中です。
@@ -35,19 +34,7 @@
 | 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
 | デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
 | 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。
-
-### 大学でのチームプロジェクト等
-| NAME | URL | OVERVIEW
-| --- | --- | -- |
-| ... |...| ...
-### その他
-
-| NAME | URL | OVERVIEW
-| --- | --- | -- |
-| 백준 |https://github.com/hirohiro-sys/baekjoon| 韓国のPSサイトの学習録
-| Qiita | https://qiita.com/bisketoriba | Qiitaでのアウトプット
-| OSS活動 | XXX | react-server公式ドキュメントの日本語訳を作成しています
--->
+| OSS活動 | https://github.com/lazarv/react-server/tree/main | react-server公式ドキュメントの日本語訳を作成しています
 
 ## 🔥 My Stats
 
