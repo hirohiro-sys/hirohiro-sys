@@ -29,7 +29,7 @@
 ## 💻 Activities
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
-| JISUI | in progress... | 自炊を楽しく継続できるアプリを開発中です。
+| JISUI | [in progress...](https://github.com/hirohiro-sys/JISUI) | 自炊に楽しくチャレンジできるアプリを開発中です。
 | テックブログ | https://github.com/hirohiro-sys/tech-blog | QiitaやMicroCMSから技術記事を取得しているテックブログサイトです。
 | 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
 | デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
