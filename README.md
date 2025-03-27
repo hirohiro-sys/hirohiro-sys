@@ -26,8 +26,6 @@
 
 ----->
 
-<!----
-
 ## 💻 Activities
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
@@ -38,7 +36,6 @@
 | 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。
 | OSS活動 | https://github.com/lazarv/react-server/tree/main | react-serverの公式ドキュメントの検証・日本語訳を作成しています。
 
------>
 
 
 ## 🔥 My Stats
