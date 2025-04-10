@@ -29,7 +29,7 @@
 ## 💻 Activities
 | NAME | URL | OVERVIEW
 | --- | --- | -- |
-| Youtube Research App | [in progress...](https://github.com/hirohiro-sys/Youtube-research-app) | Youtube APIを使ったアプリを開発中です！
+| Youtube Research App | [in progress...](https://github.com/hirohiro-sys/Youtube-research-app) | Youtubeから需要のある動画だけを検索できるツールを開発中です！
 | テックブログ | https://github.com/hirohiro-sys/tech-blog | QiitaやMicroCMSから技術記事を取得しているテックブログサイトです。
 | 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
 | デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
