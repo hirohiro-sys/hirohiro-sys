@@ -9,47 +9,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&color=17F71F&width=435&lines=Hello+I%60m+hirohiro-sys.+Hava+a+nice+day!" alt="Typing SVG" /></a>
 
-<!----
-## 🧑‍💻 About Me
-
-<div>
-  <p>⚡️韓国の大学でAIとソフトウェア開発について学んでいます。</p>
-  <p>⚡️I am currently doing an internship at a company called Kaizen Platform🔥</p>
-  <p>⚡️I will update this README with my activities and ongoing projects.📄</p>
-</div>
-
-## intern
-
-2024/1〜2024/12 kaizen platform
-
-2024/12〜 AIdeaLab
-
------>
-
-<!--
-## 💻 Activities
-| NAME | URL | OVERVIEW
-| --- | --- | -- |
-| Youtube需要分析ツール | https://github.com/hirohiro-sys/youtube-research-tool | Youtubeから需要のある動画だけを検索できたり、なぜ再生されてるのかを分析できるツールです！
-| テックブログ | https://github.com/hirohiro-sys/tech-blog | QiitaやMicroCMSから技術記事を取得しているテックブログサイトです。
-| 過去問共有アプリ | https://github.com/hirohiro-sys/ai-kakomon-share | 大学で過去の試験や課題を共有できたらと思い作ったアプリケーションです。運用とかはしてません。
-| デジタル名刺アプリ | https://github.com/hirohiro-sys/degital-meishi | その場で登録できるデジタル名刺アプリです。
-| 学習記録アプリ | https://github.com/hirohiro-sys/study-record | 学習内容を記録し管理できるアプリです。
-| OSS活動 | https://github.com/lazarv/react-server/tree/main | react-serverの公式ドキュメントの検証・日本語訳を作成しています。
--->
-
 
 ### 🔥 My Stats
-
-
-
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=katohiro22)](https://solved.ac/{handle})
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=katohiro22)](https://solved.ac/{handle}) 
--->
-
 
 
 <p align="center"> 
