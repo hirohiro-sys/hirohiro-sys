@@ -17,13 +17,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hirohiro-sys&theme=tokyonight&hide_border=%E9%96%93%E9%81%95%E3%81%84)](https://git.io/streak-stats)
 
-<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&theme=dark&show_icons=true" /> 
+<!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hirohiro-sys&theme=dark&show_icons=true" /> 
 
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&theme=vision-friendly-dark" /> 
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirohiro-sys&layout=compact&theme=vision-friendly-dark" />  -->
  
-
-
 
 </p>
 
